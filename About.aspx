@@ -11,7 +11,7 @@
             &nbsp;</p>
 
         <p>        
-            Description here</p>
+            Description goes here</p>
     </article>
 
     <aside>
